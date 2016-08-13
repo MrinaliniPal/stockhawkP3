@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="907c19df8b4a28d233bc54e44cf06fabb864fc58">
+        <dex dex="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_737f8ac0ebe96e56d574ac61e2285d0554062b4c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mrinalinigalle\Documents\androidsdkwindows\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_e7bfe870bd0bbe3a384234dc82b6137b923f244b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_b6d9d8c10d03164cf8589ce3cfd7039e0bab9584.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_d47419b96a7a735a6eaca3e7d769c85b7ccb0fbb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.5\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4a9f97c742d058ca55948643c06f447895a9af76">
+        <dex dex="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\pre-dexed\debug\me.zhanghai.android.materialprogressbar-library-1.1.5_6aa534778dd6acf878029156a3e60e2eae889a0d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mrinalini galle\.gradle\caches\modules-2\files-2.1\net.simonvt.schematic\schematic-annotations\0.6.3\4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36\schematic-annotations-0.6.3.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36">
+        <dex dex="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\pre-dexed\debug\schematic-annotations-0.6.3_18071369b6916c7e84d000c770bc31675d2a7695.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_f4a91d01bfa6498e8b6bc1b004839a152c34046d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="65620ba5e576dcec2c86efa440b00d042a27383b">
+        <dex dex="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\pre-dexed\debug\com.melnykov-floatingactionbutton-1.2.0_dbdf1f64e30c751087a48807ca246efbeccaa53b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_03ec44707e8808901919a54d752eabdf0454eccc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_7fe5b4cb03013c146983887e347af542473ccc68.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mrinalini galle\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_516a93b1518a86df69e625c8866d2d7f72f6c1e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\exploded-aar\net.simonvt.schematic\schematic\0.6.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f6f5730f19d22f177096c8d134d4892b0fbd631d">
+        <dex dex="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\pre-dexed\debug\net.simonvt.schematic-schematic-0.6.3_516da44f631b0111c6fb62c18d787f3925cb2b2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_ceb4645f2f603c3f5c7f88c385d41dcdfc09796d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2e4f03741a1fe5bce4745ec3ba41e53835cd2d82">
+        <dex dex="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\pre-dexed\debug\instant-run_dc1290160a252c5597edae576ed1f54969794cee.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_d03d255be70245051efcb6887326e762acc43e26.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mrinalini galle\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\pre-dexed\debug\okio-1.6.0_439e375105680cf8d3f7a79ccc32b05215195da7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_bbe3af11bb1515e81206a014c81ca64aedbdfe49.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.4.0_1ea8ea3950a6046cd1b9930029a53adc9551a5ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\exploded-aar\com.diogobernardino\williamchart\2.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1f159979917aba68421fb945854049367d206410">
+        <dex dex="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\pre-dexed\debug\com.diogobernardino-williamchart-2.2_e5c38ac5a7149c53dd80a8e58bbe5c4e4385ba1f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.4.0_a344e6fa091e1d3aa7bc9bd87e96b5a92e84d629.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mrinalini galle\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\pre-dexed\debug\library-2.4.0_2c0385fdb53112ccf3c032a818ee131e6bcee1a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_528b86a5b336945c483d7cf84cd44c13c0360bbc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\exploded-aar\com.github.afollestad.material-dialogs\core\0.8.5.7\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a94e3ac390a37f149a235f7f5e1b49b65151c0bf">
+        <dex dex="C:\Users\Mrinalini galle\Music\stockhawk-master\stockhawk-master\app\build\intermediates\pre-dexed\debug\com.github.afollestad.material-dialogs-core-0.8.5.7_5549b25cbe37ab413f3f75d429a0ae89020683ee.jar" />
+    </item>
+
+</items>
